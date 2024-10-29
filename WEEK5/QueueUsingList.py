@@ -1,0 +1,12 @@
+queue=[]
+queue.append('a')
+queue.append('b')
+queue.append('c')
+queue.append('d')
+queue.append('e')
+print(queue)
+print("Items Dequed from the queue")
+print(queue.pop(0))
+print(queue.pop(0))
+print(queue.pop(0))
+print(queue)
